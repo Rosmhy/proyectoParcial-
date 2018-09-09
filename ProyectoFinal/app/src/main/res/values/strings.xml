@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="name">Nombre</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono">Telefono</string>
+    <string name="error_generico">Se presento un error</string>
+    <string name="mensaje_generico_guardar">Se guardo</string>
+</resources>
